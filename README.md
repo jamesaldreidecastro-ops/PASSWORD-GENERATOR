@@ -416,7 +416,7 @@ Interactive output where the user selects option 2 from the generator menu, resu
 
 The console screen showing the user's saved password entries. Each entry lists an account name and its corresponding password, demonstrating the variety of outputs from the different available generators.
 
-<img width="549" height="156" alt="Image" src="https://github.com/user-attachments/assets/215ef569-0c3f-475d-875a-abf587dad27b" />
+
 
 Console interface for updating a saved password. The user specifies the account "Clint" and provides the new password "OOP_Programming/j@vA," after which the system confirms the entry has been successfully updated.
 
@@ -426,7 +426,9 @@ Post-update view of the password entries. The accounts are listed first, then th
 
 <img width="549" height="156" alt="Image" src="https://github.com/user-attachments/assets/58062f9e-e2a7-449c-b0ac-d13786bba2c3" />
 
+
 This output shows the password deletion process, where the user removes the saved entry for the account "Miya" and receives a successful deletion confirmation.
+
 
 
 This output displays the password vault after the deletion of the "Miya" entry. It confirms the updated state of the system by listing the three remaining accounts (Clint, Zetian, Alucard) and their corresponding passwords.
