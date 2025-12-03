@@ -150,6 +150,7 @@ The system only needs to import AbstractPasswordGenerator from the abstraction p
 
 And then import specific implementations from the inheritance package when instantiating concrete generators:
 
+<img width="345" height="64" alt="Image" src="https://github.com/user-attachments/assets/7fbe3463-a4cc-4d3a-ba12-918a94eb7a17" />
 
 **Benefits of Abstraction**
 
