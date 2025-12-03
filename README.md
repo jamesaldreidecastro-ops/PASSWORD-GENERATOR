@@ -257,6 +257,7 @@ Each password and account information is stored in a VaultEntry object. This obj
 
 
 **A text-based Diagram**
+<img width="401" height="873" alt="Image" src="https://github.com/user-attachments/assets/738cc94e-5458-44d2-acc4-28ddbbc39813" />
 
 
 
