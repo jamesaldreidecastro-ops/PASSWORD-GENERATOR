@@ -420,7 +420,10 @@ The console screen showing the user's saved password entries. Each entry lists a
 
 Console interface for updating a saved password. The user specifies the account "Clint" and provides the new password "OOP_Programming/j@vA," after which the system confirms the entry has been successfully updated.
 
+<img width="548" height="209" alt="Image" src="https://github.com/user-attachments/assets/571bf598-d9df-45f0-917f-2bb97ecb0a92" />
+
 Post-update view of the password entries. The accounts are listed first, then their corresponding passwords in the same order below, demonstrating that Clint's password has been successfully changed to "OOP_Programming/j@vA".
+
 
 
 This output shows the password deletion process, where the user removes the saved entry for the account "Miya" and receives a successful deletion confirmation.
