@@ -433,6 +433,7 @@ This output shows the password deletion process, where the user removes the save
 
 This output displays the password vault after the deletion of the "Miya" entry. It confirms the updated state of the system by listing the three remaining accounts (Clint, Zetian, Alucard) and their corresponding passwords.
 
+<img width="548" height="158" alt="Image" src="https://github.com/user-attachments/assets/4b5d7a65-7404-4b8e-9dab-7e691c4e2665" />
 
 The exit screen of the SecuriVault System password manager, displaying a thank-you message and confirming that stored passwords remain secure.
 
