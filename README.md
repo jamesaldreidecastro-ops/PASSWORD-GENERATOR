@@ -404,9 +404,11 @@ This console output displays the generator selection screen. It clearly outlines
 
 This sample shows the user selecting and switching between password generators. The menu displays the currently active generator before the user selects option 1, resulting in a successful switch to the Complex Generator.
 
-
+<img width="545" height="266" alt="Image" src="https://github.com/user-attachments/assets/e0e92fc0-35ca-4962-b94d-ac0315ea7923" />
 
 This output shows the password creation process using the Complex Generator. It captures the user's configuration (length and character counts) for an account named "Alucard," then displays the resulting secure password and a success confirmation.
+
+
 
 Interactive output where the user selects option 2 from the generator menu, resulting in the system switching from the Complex Generator to the LeetSpeak Generator and displaying a success message.
 
