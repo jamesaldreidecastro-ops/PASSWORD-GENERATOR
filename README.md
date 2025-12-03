@@ -106,6 +106,8 @@ Generates memorable word-based passphrases by combining random words from a stat
 
 The system uses runtime type checking with the instanceof operator in the getGeneratorName() method to identify the current generator type and display appropriate information to the user:
 
+<img width="497" height="188" alt="Image" src="https://github.com/user-attachments/assets/668fe391-07f9-4da8-9316-b2c8f50181e9" />
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is another demonstration of polymorphism, as the system queries the actual runtime type of the object rather than its compile-time reference type, allowing different behavior based on the concrete class being used.
 This polymorphic approach provides flexibility, allowing users to switch between different password generation strategies seamlessly without requiring any changes to the calling code in SecuriVaultSystem, and making it simple to add new generator types in the future by simply adding a new class to the inheritance package.
 
