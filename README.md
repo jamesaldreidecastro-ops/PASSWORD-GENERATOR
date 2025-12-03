@@ -193,6 +193,8 @@ The PasswordException class in the polymorphism package demonstrates multiple OO
 
 The class provides two constructors:
 
+<img width="575" height="75" alt="Image" src="https://github.com/user-attachments/assets/e8f54ffc-0889-4f3a-9c67-fe72bc196825" />
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This design supports both simple error reporting and exception chaining, making it flexible for different error scenarios throughout the application.
 
 **Code Reusability**
