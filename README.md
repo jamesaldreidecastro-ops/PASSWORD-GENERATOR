@@ -396,9 +396,10 @@ Main Menu Options:
 
 A sample console output showing the startup screen for the SecuriVault System, featuring the program header and a prompt to begin.
 
-
+<img width="547" height="361" alt="Image" src="https://github.com/user-attachments/assets/4c06188a-d33b-476c-bfcf-bcdf0f53fdd4" />
 
 This console output displays the generator selection screen. It clearly outlines the features and provides an example for each of the three available password creation styles before prompting the user for their choice.
+
 
 
 This sample shows the user selecting and switching between password generators. The menu displays the currently active generator before the user selects option 1, resulting in a successful switch to the Complex Generator.
