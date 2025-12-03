@@ -416,7 +416,7 @@ Interactive output where the user selects option 2 from the generator menu, resu
 
 The console screen showing the user's saved password entries. Each entry lists an account name and its corresponding password, demonstrating the variety of outputs from the different available generators.
 
-
+<img width="547" height="175" alt="Image" src="https://github.com/user-attachments/assets/ae560605-289c-47f7-aa02-b3dcc0a97a19" />
 
 Console interface for updating a saved password. The user specifies the account "Clint" and provides the new password "OOP_Programming/j@vA," after which the system confirms the entry has been successfully updated.
 
