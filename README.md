@@ -77,6 +77,8 @@ Generates memorable word-based passphrases by combining random words from a stat
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the SecuriVaultSystem class, the generator is declared using a superclass reference as private AbstractPasswordGenerator generator, which can hold any of the three concrete generator objects through polymorphic assignment. The system imports the necessary classes using:
 
+<img width="503" height="144" alt="Image" src="https://github.com/user-attachments/assets/f8d60d89-1084-47cc-a6cf-2f85e380f577" />
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the user selects a generator in the changeGeneratorFlow() method, the system assigns the appropriate subclass object to the superclass reference (e.g., generator = new LeetSpeakGenerator()), demonstrating polymorphism in action across package boundaries. The actual concrete type is determined at runtime based on user choice, not at compile time.
 
 **Runtime Polymorphism in Action**
