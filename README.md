@@ -391,9 +391,11 @@ Main Menu Options:
  **SAMPLE OUTPUT**
 
     show what the program looks like when it runs. A short code block or screenshot may be included.
-    
+
+<img width="548" height="254" alt="Image" src="https://github.com/user-attachments/assets/28b5110b-9e50-4817-8a4f-328c51051369" />
 
 A sample console output showing the startup screen for the SecuriVault System, featuring the program header and a prompt to begin.
+
 
 
 This console output displays the generator selection screen. It clearly outlines the features and provides an example for each of the three available password creation styles before prompting the user for their choice.
