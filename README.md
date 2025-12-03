@@ -424,7 +424,7 @@ Console interface for updating a saved password. The user specifies the account 
 
 Post-update view of the password entries. The accounts are listed first, then their corresponding passwords in the same order below, demonstrating that Clint's password has been successfully changed to "OOP_Programming/j@vA".
 
-
+<img width="549" height="156" alt="Image" src="https://github.com/user-attachments/assets/58062f9e-e2a7-449c-b0ac-d13786bba2c3" />
 
 This output shows the password deletion process, where the user removes the saved entry for the account "Miya" and receives a successful deletion confirmation.
 
