@@ -410,9 +410,9 @@ This output shows the password creation process using the Complex Generator. It 
 
 <img width="431" height="165" alt="Image" src="https://github.com/user-attachments/assets/57d5aa73-e1a1-49e9-96aa-a31f19bfd67f" />
 
-
-
 Interactive output where the user selects option 2 from the generator menu, resulting in the system switching from the Complex Generator to the LeetSpeak Generator and displaying a success message.
+
+<img width="551" height="199" alt="Image" src="https://github.com/user-attachments/assets/cd2bb079-a5ef-417d-806e-940db15767e4" />
 
 The console screen showing the user's saved password entries. Each entry lists an account name and its corresponding password, demonstrating the variety of outputs from the different available generators.
 
