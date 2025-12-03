@@ -408,6 +408,8 @@ This sample shows the user selecting and switching between password generators. 
 
 This output shows the password creation process using the Complex Generator. It captures the user's configuration (length and character counts) for an account named "Alucard," then displays the resulting secure password and a success confirmation.
 
+<img width="431" height="165" alt="Image" src="https://github.com/user-attachments/assets/57d5aa73-e1a1-49e9-96aa-a31f19bfd67f" />
+
 
 
 Interactive output where the user selects option 2 from the generator menu, resulting in the system switching from the Complex Generator to the LeetSpeak Generator and displaying a success message.
