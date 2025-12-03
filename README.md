@@ -400,9 +400,11 @@ A sample console output showing the startup screen for the SecuriVault System, f
 
 This console output displays the generator selection screen. It clearly outlines the features and provides an example for each of the three available password creation styles before prompting the user for their choice.
 
-
+<img width="549" height="437" alt="Image" src="https://github.com/user-attachments/assets/818f275c-0f69-47b0-9974-5c1607ec3cf0" />
 
 This sample shows the user selecting and switching between password generators. The menu displays the currently active generator before the user selects option 1, resulting in a successful switch to the Complex Generator.
+
+
 
 This output shows the password creation process using the Complex Generator. It captures the user's configuration (length and character counts) for an account named "Alucard," then displays the resulting secure password and a success confirmation.
 
