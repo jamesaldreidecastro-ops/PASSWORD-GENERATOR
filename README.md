@@ -429,7 +429,7 @@ Post-update view of the password entries. The accounts are listed first, then th
 
 This output shows the password deletion process, where the user removes the saved entry for the account "Miya" and receives a successful deletion confirmation.
 
-
+<img width="548" height="185" alt="Image" src="https://github.com/user-attachments/assets/4b9c0356-adf5-4669-9d50-c624801ef43b" />
 
 This output displays the password vault after the deletion of the "Miya" entry. It confirms the updated state of the system by listing the three remaining accounts (Clint, Zetian, Alucard) and their corresponding passwords.
 
