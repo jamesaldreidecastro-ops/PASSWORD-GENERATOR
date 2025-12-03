@@ -146,6 +146,7 @@ This polymorphic approach provides flexibility, allowing users to switch between
 
 The system only needs to import AbstractPasswordGenerator from the abstraction package to declare the generator reference:
 
+<img width="533" height="95" alt="Image" src="https://github.com/user-attachments/assets/d32bb5b5-3d6a-47de-9a17-9da48ab20698" />
 
 And then import specific implementations from the inheritance package when instantiating concrete generators:
 
