@@ -220,14 +220,14 @@ dir src\polymorphism\*.class
 ***Step 4: Run the Program***
 Navigate to the src directory and run the main class:
 
-Option A: 
+**Option A:** 
 
 From project root:
 
 java SecuriVaultSystem
 
 
-Option B: 
+**Option B:** 
 
 Without changing directory:
 
@@ -238,7 +238,6 @@ java -cp src SecuriVaultSystem
 Once the program starts:
 
 First: Select a password generator type (1-3)
-
 
 
 
